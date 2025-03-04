@@ -13,11 +13,6 @@ This is a simple BMI (Body Mass Index) calculator implemented in Java. The progr
 - **Interactive user input:**
   - Users can input their name, height, and weight.
   
-- **BMI Calculation:**
-  - BMI is calculated using the formula:
-    - For English: \[ \text{BMI} = \frac{\text{weight}}{(\text{height in inches})^2} \times 703 \]
-    - For Metric: \[ \text{BMI} = \frac{\text{weight in kg}}{(\text{height in cm})^2} \times 10000 \]
-  
 - **Summary Report:**
   - Displays the calculated BMI, weight status, and the current date and time.
   
